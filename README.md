@@ -42,4 +42,4 @@ Or use Visual Studio 2022 with the Windows SDK for optimal performance.
 
 ## License
 
-Part of the Cauto project ecosystem. Open source and free to modify and distribute.
+Licensed using GNU 3.0 and is a part of the Cauto Minecraft Autoclicker project.
