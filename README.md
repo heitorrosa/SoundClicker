@@ -14,7 +14,7 @@ A tool made for autoclickers to fake click sounds in games like Minecraft, Roblo
 
 - Windows 7 or higher
 - WAV audio files (16-bit/44.1kHz recommended for best performance)
-- Visual C++ Redistributable (linked above)
+- Visual C++ Redistributable
 
 # Building the Application
 Clone the repository and compile with any C compiler supporting Windows API:
