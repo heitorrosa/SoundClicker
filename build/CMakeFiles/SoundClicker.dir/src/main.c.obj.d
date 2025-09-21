@@ -21,7 +21,6 @@ CMakeFiles/SoundClicker.dir/src/main.c.obj: \
  D:/Program\ Files/MSYS2/mingw64/include/malloc.h \
  D:/Program\ Files/MSYS2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
  D:/Program\ Files/MSYS2/mingw64/include/errno.h \
- D:/Program\ Files/MSYS2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdbool.h \
  D:/Program\ Files/MSYS2/mingw64/include/string.h \
  D:/Program\ Files/MSYS2/mingw64/include/sec_api/string_s.h \
  D:/Program\ Files/MSYS2/mingw64/include/windows.h \
@@ -294,10 +293,4 @@ CMakeFiles/SoundClicker.dir/src/main.c.obj: \
  D:/Program\ Files/MSYS2/mingw64/include/sec_api/stralign_s.h \
  D:/Program\ Files/MSYS2/mingw64/include/winsvc.h \
  D:/Program\ Files/MSYS2/mingw64/include/mcx.h \
- D:/Program\ Files/MSYS2/mingw64/include/imm.h \
- D:/Program\ Files/MSYS2/mingw64/include/time.h \
- D:/Program\ Files/MSYS2/mingw64/include/sys/timeb.h \
- D:/Program\ Files/MSYS2/mingw64/include/sec_api/sys/timeb_s.h \
- D:/Program\ Files/MSYS2/mingw64/include/pthread_time.h \
- D:/Program\ Files/MSYS2/mingw64/include/pthread_compat.h \
- D:/Program\ Files/MSYS2/mingw64/include/math.h
+ D:/Program\ Files/MSYS2/mingw64/include/imm.h
