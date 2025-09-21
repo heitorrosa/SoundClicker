@@ -1,3 +1,0 @@
-D:/Repositories/SoundClicker/build/CMakeFiles/SoundClicker.dir
-D:/Repositories/SoundClicker/build/CMakeFiles/edit_cache.dir
-D:/Repositories/SoundClicker/build/CMakeFiles/rebuild_cache.dir

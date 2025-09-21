@@ -1,3 +1,0 @@
-"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SoundClicker.dir/objects.a
-"D:\Program Files\MSYS2\mingw64\bin\ar.exe" qc CMakeFiles\SoundClicker.dir/objects.a @CMakeFiles\SoundClicker.dir\objects1.rsp
-"D:\Program Files\MSYS2\mingw64\bin\cc.exe" -g -Wl,--whole-archive CMakeFiles\SoundClicker.dir/objects.a -Wl,--no-whole-archive -o SoundClicker.exe -Wl,--out-implib,libSoundClicker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SoundClicker.dir\linkLibs.rsp
