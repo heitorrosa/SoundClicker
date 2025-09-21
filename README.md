@@ -8,8 +8,6 @@ Install the required dependencies:
 
 Download the latest [release](https://github.com/heitorrosa/SoundClicker/releases) and run the executable.
 
-<br>
-
 # Building the Application from Source
 Clone the repository and compile with any C compiler supporting Windows API:
 
